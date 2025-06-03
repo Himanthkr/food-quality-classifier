@@ -1,0 +1,11 @@
+product,taste,smell,texture,packaging,label
+Chips,Salty,Mild,Crunchy,Plastic,Yes
+Bread,Bland,Fresh,Soft,Paper,Yes
+Juice,Sweet,Strong,Liquid,Bottle,Yes
+Meat,Umami,Strong,Firm,Vacuum,No
+Candy,Sweet,Mild,Sticky,Plastic,Yes
+Fish,Umami,Strong,Slimy,Wrap,No
+Crackers,Salty,Fresh,Crunchy,Box,Yes
+Soda,Sweet,Strong,Fizzy,Bottle,Yes
+Tofu,Bland,Mild,Soft,Box,Yes
+Sausage,Umami,Strong,Firm,Plastic,No
